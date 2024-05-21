@@ -1,16 +1,15 @@
-## Hi there 👋
+### Boas vindas ao meu perfil ✈️
 
-<!--
-**purpurina016/purpurina016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Arthur Roque Rossi
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.Alura.com.br)
+- Estou me desenvolvendo na linguagem javaScript
+- utilizo esse espaço paraminha organização e compartilhamento dos meus progetos desenvolvido
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### você entrar em contato comigo 📫
+
+  email:arturroquerossi@gmail.com
+  
+  @arthur_r_rossi
+
+![](https://media1.tenor.com/m/Cl85pTvXEfUAAAAC/%CF%88%CE%B5%CE%BA%CE%B1%CE%B6%CE%BF%CF%85%CE%BD-%CF%88%CE%B5%CE%BA%CE%B1%CF%83%CE%BC%CE%BF%CF%82.gif)
